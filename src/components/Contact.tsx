@@ -6,20 +6,14 @@ const Contact = () => {
   const contactMethods = [
     {
       icon: "Phone",
-      title: "Телефон поддержки",
-      value: "+7 919 165 18 91",
+      title: "Телефон",
+      value: "+7 (999) 999-99-99",
       description: "Звоните с 9:00 до 21:00",
-    },
-    {
-      icon: "Phone",
-      title: "Дополнительный номер",
-      value: "+7 977 951 22 97",
-      description: "Резервная линия поддержки",
     },
     {
       icon: "MessageCircle",
       title: "WhatsApp",
-      value: "+7 919 165 18 91",
+      value: "+7 (999) 999-99-99",
       description: "Пишите в любое время",
     },
     {

@@ -42,27 +42,6 @@ const Hero = () => {
           ))}
         </div>
 
-        <div className="bg-blue-600/20 backdrop-blur-sm rounded-lg p-6 mb-8">
-          <h3 className="text-2xl font-bold mb-4 text-blue-200">
-            📞 Поддержка
-          </h3>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <a
-              href="tel:+79191651891"
-              className="text-xl font-semibold text-white hover:text-blue-200 transition-colors"
-            >
-              +7 919 165 18 91
-            </a>
-            <span className="text-gray-300">или</span>
-            <a
-              href="tel:+79779512297"
-              className="text-xl font-semibold text-white hover:text-blue-200 transition-colors"
-            >
-              +7 977 951 22 97
-            </a>
-          </div>
-        </div>
-
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
           <Button
             size="lg"
